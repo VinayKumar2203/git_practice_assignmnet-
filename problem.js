@@ -16,4 +16,5 @@ function checkPrime(num)
     }
 }
 
+
 checkPrime(15)
